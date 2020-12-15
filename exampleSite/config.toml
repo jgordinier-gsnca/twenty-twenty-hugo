@@ -1,4 +1,4 @@
-baseURL = "trailblazertv"
+baseURL = "https://trailblazertv.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
